@@ -12,7 +12,7 @@ Backend Developer | ASP.NET Core | REST APIs | SQL Server | JWT Authentication
 
 ## 🚀 About Me
 
-- 🔭 Currently building backend systems using ASP.NET Core Web API
+- 🔭 Building scalable backend systems and business workflow applications using ASP.NET Core.
 
 - 🌱 Learning advanced API security, Clean Architecture, and Windows Services
 
