@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maher Morsy</h1>
 
 <h3 align="center">
-.NET Backend Developer | ASP.NET Core | REST APIs | SQL Server
+Backend Developer | ASP.NET Core | REST APIs | SQL Server | JWT Authentication
 </h3>
 
 <p align="center">
